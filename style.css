@@ -32,3 +32,9 @@ body {
     height: 100vh; /* Set the height of the container to the full viewport height */
     flex-direction: column; /* Add this line to stack elements vertically */
   }
+
+  .content h2{
+    font-size: 140px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
